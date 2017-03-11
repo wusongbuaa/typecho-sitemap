@@ -4,4 +4,4 @@
 
 上传插件到Typecho安装目录下/usr/plugins，插件文件夹请务必保存为Sitemap（别改就可以）。上传完成在后台启用即可，访问你博客地址/sitemap.xml就可以查看到具体效果。
 
-![](https://github.com/ryanwschina/typecho-sitemap/demo.jpg)
+![](https://github.com/ryanwschina/typecho-sitemap/blob/master/demo.jpg)
