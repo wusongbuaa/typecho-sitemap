@@ -3,7 +3,7 @@
  * Google Sitemap 生成器
  * 
  * @package Sitemap
- * @author 吴松
+ * @author 八云酱
  * @version 1.0.0
  * @link https://www.bayun.org
  *
