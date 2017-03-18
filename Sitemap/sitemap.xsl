@@ -91,7 +91,7 @@
 					</table>
 				</div>
 				<div id="footer">
-					<a href="http://www.bayun.org" target="_blank">八云酱</a>
+					<a href="https://www.bayun.org" target="_blank">八云酱</a>
 				</div>
 			</body>
 		</html>
