@@ -1,6 +1,6 @@
 <?php
 /**
- * Google Sitemap 生成器
+ * Sitemap for Typecho
  * 
  * @package Sitemap
  * @author 八云酱
@@ -17,9 +17,8 @@ class Sitemap_Plugin implements Typecho_Plugin_Interface
      * @return void
      * @throws Typecho_Plugin_Exception
      */
-    public static function activate()
-    {
-		Helper::addRoute('sitemap', '/sitemap.xml', 'Sitemap_Action', 'action');
+    public static function activate(){
+	    Helper::addRoute('sitemap', '/sitemap.xml', 'Sitemap_Action', 'action');
     }
     
     /**
@@ -30,10 +29,9 @@ class Sitemap_Plugin implements Typecho_Plugin_Interface
      * @return void
      * @throws Typecho_Plugin_Exception
      */
-    public static function deactivate()
-	{
-		Helper::removeRoute('sitemap');
-	}
+    public static function deactivate(){
+	    Helper::removeRoute('sitemap');
+    }
     
     /**
      * 获取插件配置面板
