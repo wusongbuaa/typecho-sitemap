@@ -3,7 +3,7 @@
  * Sitemap for Typecho
  * 
  * @package Sitemap
- * @author 八云酱
+ * @author bayunjiang
  * @version 1.0.0
  * @link https://www.bayun.org
  *
